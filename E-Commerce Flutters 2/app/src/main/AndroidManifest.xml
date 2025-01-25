@@ -26,7 +26,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDbkstyRijvP_eF7GVE_oHLv4H6419aao4" />
+            android:value="" />
         <activity
             android:name=".ActivityVenta"
             android:exported="false" />
